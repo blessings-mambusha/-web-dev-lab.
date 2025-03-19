@@ -1,0 +1,2 @@
+Learned how to create a git hub account, change personal user information(user and email),how to initialize a local 
+repository and connecting to a remote so that changes made on the local repo can reflect onto the remote.
